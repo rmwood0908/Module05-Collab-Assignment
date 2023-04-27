@@ -1,1 +1,2 @@
-# Module05-Collab-AssignmentI am adding a hypothetical module to the project.
+# Module05-Collab-Assignment
+I am adding text of a hypothetical module to the project.
